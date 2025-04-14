@@ -34,7 +34,7 @@ export default function QuestionPage({ params }) {
 
       <section className="p-8">
         <h2 className="text-3xl mb-4">{question.title}</h2>
-        <p className="mb-6">{question.description}</p>
+
       </section>
 
       <Workspace key={question.id} question={question} />
