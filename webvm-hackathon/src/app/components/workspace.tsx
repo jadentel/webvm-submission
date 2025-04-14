@@ -286,15 +286,7 @@ export default function Workspace({ question }) {
             </div>
           </div>
 
-          <div className="mt-6">
-            <h2 className="text-xl font-bold mb-2">Your Code</h2>
-            <textarea
-              value={code}
-              onChange={(e) => setCode(e.target.value)}
-              rows="8"
-              className="w-full p-2 border border-green-600 rounded bg-black text-green-400"
-            />
-          </div>
+
 
           <div className="mt-4 flex items-center">
             <input
