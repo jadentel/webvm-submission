@@ -2,8 +2,6 @@
 
 An interactive web-based Linux learning environment powered by **CheerpX**, **xterm.js**, and **Claude AI**. This project brings a full Linux terminal experience right to your browser, offering real-time challenges with intelligent guidance and code execution.
 
-![Screenshot](https://user-images.githubusercontent.com/placeholder/screenshot.png)  
-*Replace the URL above with your actual screenshot image URL if available.*
 
 ---
 
